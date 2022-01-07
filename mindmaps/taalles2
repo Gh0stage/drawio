@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T22:34:57.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="BHggK5asZ7gLuKAbzAA-" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T22:59:57.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0DT_aO61goaGRhrMTC6v" version="16.2.2" type="github" pages="3">
   <diagram id="hKd6RtOC4zp6gwY5pztQ" name="werkwoordspelling">
     <mxGraphModel dx="1384" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#182E3E" math="0" shadow="0">
       <root>
@@ -192,6 +192,238 @@
         </mxCell>
         <mxCell id="Z5H4P5KWTcxh3tNbAeph-56" value="verdubbeling uitgang" style="whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;rounded=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="1490.25" y="911" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kfuMiQdoYDRM2SpKAxJB" name="De zin, leestekens en samenstellingen">
+    <mxGraphModel dx="1298" dy="649" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="nUI0zJ5P5VY3VcR4YYpr-0" />
+        <mxCell id="nUI0zJ5P5VY3VcR4YYpr-1" parent="nUI0zJ5P5VY3VcR4YYpr-0" />
+        <mxCell id="JVdlegVPhAw5iT-svDPN-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-0" target="JVdlegVPhAw5iT-svDPN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-0" value="De zin, leestekens en samenstellingen" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="793" y="499" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-30" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-1" target="JVdlegVPhAw5iT-svDPN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-1" value="Wat is een zin?" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="598" y="434" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-32" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-3" target="JVdlegVPhAw5iT-svDPN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-3" value="Nevenschikkend voegwoord" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="973" y="472" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-34" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-4" target="JVdlegVPhAw5iT-svDPN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-4" value="Onderschikkend voegwoord" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="973" y="559" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-5" target="JVdlegVPhAw5iT-svDPN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-5" value="Leestekens" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="598" y="512" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-6" target="JVdlegVPhAw5iT-svDPN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-6" target="JVdlegVPhAw5iT-svDPN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-6" value="Samenstellingen" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="598" y="652" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-8" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-0" target="JVdlegVPhAw5iT-svDPN-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1028" y="527" as="sourcePoint" />
+            <mxPoint x="1145" y="499.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-0" target="JVdlegVPhAw5iT-svDPN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1047" y="547.5" as="sourcePoint" />
+            <mxPoint x="1155" y="509.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-0" target="JVdlegVPhAw5iT-svDPN-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1067" y="567.5" as="sourcePoint" />
+            <mxPoint x="1175" y="529.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-12" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-0" target="JVdlegVPhAw5iT-svDPN-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1077" y="577.5" as="sourcePoint" />
+            <mxPoint x="1185" y="539.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-13" value="meerdere woorden die samen worden gevoegd" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="598" y="575" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-15" target="JVdlegVPhAw5iT-svDPN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-15" value="Met koppelteken wanneer" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="439" y="652" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-17" value="2 gelijkwaardige woorden verbonden worden" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="252" y="615" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-19" value="Klinkers op de woordgrens botsen" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="252" y="681" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-15" target="JVdlegVPhAw5iT-svDPN-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="677.5217391304348" as="sourcePoint" />
+            <mxPoint x="379" y="625.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-24" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-21" target="JVdlegVPhAw5iT-svDPN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-21" target="JVdlegVPhAw5iT-svDPN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-28" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nUI0zJ5P5VY3VcR4YYpr-1" source="JVdlegVPhAw5iT-svDPN-21" target="JVdlegVPhAw5iT-svDPN-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-21" value="Waar hoort de komma?" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="437" y="512" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-23" value="Indien nodig voor leesbaarheid" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="252" y="465" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-25" value="Tussen 2 PV&#39;s" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="252" y="512" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-27" value="Uitgebreide bijvoeglijke bijzin" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="252" y="559" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-29" value="Minstens 1 PV aanwezig" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="439" y="434" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-31" value="En, Of, Maar, Want" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="1128" y="472" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JVdlegVPhAw5iT-svDPN-33" value="Omdat, wanneer, zodra" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="nUI0zJ5P5VY3VcR4YYpr-1">
+          <mxGeometry x="1128" y="559" width="120" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="c3zKaZjMCjfouOh78xSa" name="tekststructuren">
+    <mxGraphModel dx="1221" dy="611" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-0" />
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-1" parent="lD0YtyrgGkvrVuTY60ka-0" />
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-8" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-2" target="lD0YtyrgGkvrVuTY60ka-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-2" value="Tekststructuren" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="433" y="238" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-7" target="lD0YtyrgGkvrVuTY60ka-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-7" value="Betrekkelijk voornaamwoord" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="619" y="79" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-9" target="lD0YtyrgGkvrVuTY60ka-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-9" value="Paragraaf" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="619" y="241.5" width="78" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-10" target="lD0YtyrgGkvrVuTY60ka-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-10" value="POW-tree" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="619" y="315" width="84" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-2" target="lD0YtyrgGkvrVuTY60ka-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="220" as="sourcePoint" />
+            <mxPoint x="627" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-12" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-2" target="lD0YtyrgGkvrVuTY60ka-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="230" as="sourcePoint" />
+            <mxPoint x="637" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-16" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-13" target="lD0YtyrgGkvrVuTY60ka-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-13" value="Wordt gebruikt in paren" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="778" y="82" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-15" value="De -&amp;gt; die" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="778" y="140" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-17" value="het -&amp;gt; dat" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="915" y="140" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-13" target="lD0YtyrgGkvrVuTY60ka-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="848" y="123" as="sourcePoint" />
+            <mxPoint x="848" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-19" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(26, 26, 26); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Een doorlopend stuk tekst, word onderbroken door witregel&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="778" y="231.25" width="163" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-24" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-21" target="lD0YtyrgGkvrVuTY60ka-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-21" value="Methode om informatie in een paragraaf te structureren" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="752" y="304" width="135" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-23" value="Gebruikt signaalwoorden" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="966" y="281" width="135" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-25" value="volgorde" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="966" y="333" width="135" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-21" target="lD0YtyrgGkvrVuTY60ka-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="896.9999999999998" y="336.5" as="sourcePoint" />
+            <mxPoint x="976" y="306.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-27" value="Pick an idea" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="1154" y="235" width="135" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-28" value="Organise your thoughts" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="1154" y="287" width="135" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-29" value="Write" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" vertex="1" parent="lD0YtyrgGkvrVuTY60ka-1">
+          <mxGeometry x="1154" y="333" width="135" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-30" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-25" target="lD0YtyrgGkvrVuTY60ka-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1107" y="374" as="sourcePoint" />
+            <mxPoint x="1120" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-32" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-25" target="lD0YtyrgGkvrVuTY60ka-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1111" y="358.5" as="sourcePoint" />
+            <mxPoint x="1151" y="358.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lD0YtyrgGkvrVuTY60ka-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lD0YtyrgGkvrVuTY60ka-1" source="lD0YtyrgGkvrVuTY60ka-25" target="lD0YtyrgGkvrVuTY60ka-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1111" y="358.5" as="sourcePoint" />
+            <mxPoint x="1148.9999999999998" y="312.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
